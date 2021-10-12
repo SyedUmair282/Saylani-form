@@ -1,0 +1,118 @@
+.fn {}
+
+#head {
+    text-align: center;
+    color: blueviolet;
+}
+
+#pic {
+    margin-left: 450px;
+}
+
+#fnt {
+    margin-left: 50px;
+}
+
+#ln {
+    margin-left: 53px;
+}
+
+#dob {
+    margin-left: 28px;
+}
+
+#em {
+    margin-left: 73px;
+}
+
+#mob {
+    margin-left: 10px;
+}
+
+#gen {
+    margin-left: 79px;
+}
+
+#ad {
+    margin-left: 72px;
+    width: 200px;
+    height: 70px;
+}
+
+#add {
+    vertical-align: 50px;
+}
+
+#ci {
+    margin-left: 108px;
+}
+
+#pi {
+    margin-left: 72px;
+}
+
+#st {
+    margin-left: 98px;
+}
+
+#co {
+    margin-left: 70px;
+}
+
+#dr {
+    margin-left: 77px;
+}
+
+.sd {}
+
+#tab {
+    margin-left: 150px;
+    margin-top: -20px;
+}
+
+#bo {
+    text-align: center;
+}
+
+#per {
+    text-align: center;
+}
+
+#yop {
+    text-align: center;
+}
+
+.la {
+    text-align: center;
+}
+
+.tc {}
+
+#cou {
+    margin-left: 50px;
+}
+
+#ce {
+    margin-left: 280px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#cr {
+    border-radius: 5px;
+}
+
+#fo {
+    width: 400px;
+    background-color: blueviolet;
+    margin-left: 285px;
+    border-style: ridge;
+}
+
+#head2 {
+    color: blueviolet;
+}
+
+#link {
+    text-decoration: none;
+}
